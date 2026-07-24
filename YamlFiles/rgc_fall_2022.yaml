@@ -82,9 +82,7 @@ configuration:
       detectors: "BMT,DC"
     DCCR:
       rawBankGroup: "NOISE1"
-    MLTD:
-      run: "6302"
-    DCHAI:
+    DCHTAI:
       outputBankPrefix: "HB"
     CVTFP:
       targetMat: "LD2"

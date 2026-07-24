@@ -75,9 +75,7 @@ configuration:
       magfieldTorusMap: Full_torus_r251_phi181_z251_25Jan2021.dat
     DCCR:
       rawBankGroup: "NOISE1"
-    MLTD:
-      run: "6302"
-    DCHAI:
+    DCHTAI:
       outputBankPrefix: "HB"
 mime-types:
   - binary/data-hipo
