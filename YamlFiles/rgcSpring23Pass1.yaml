@@ -65,7 +65,7 @@ configuration:
   global:
     variation: rgc_spring2023
     dcrbJitter: "true"
-    timestamp: 02/21/2025-10:00:00
+      #   timestamp: 02/21/2025-10:00:00
     dcMinistagger: "NOTONREFWIRE"
     dcFeedthroughs: "OFF"
   io-services:

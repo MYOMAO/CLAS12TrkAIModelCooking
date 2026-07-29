@@ -8,8 +8,8 @@ io-services:
 services:
   - class: org.jlab.clas.swimtools.MagFieldsEngine
     name: MAGFIELDS
-  - class: org.jlab.service.swaps.SwapEngine
-    name: SWAPS
+#  - class: org.jlab.service.swaps.SwapEngine
+#    name: SWAPS
   - class: org.jlab.rec.ft.cal.FTCALEngine
     name: FTCAL
   - class: org.jlab.rec.ft.hodo.FTHODOEngine
@@ -76,10 +76,6 @@ configuration:
     MAGFIELDS:
       magfieldSolenoidMap: Symm_solenoid_r601_phi1_z1201_13June2018.dat
       magfieldTorusMap: Full_torus_r251_phi181_z251_25Jan2021.dat
-    SWAPS:
-      timestamp: 10/28/2022-11:00:00
-      previousTimestamp: 08/10/2020
-      detectors: "BMT,DC"
     DCCR:
       rawBankGroup: "NOISE1"
     DCHTAI:
@@ -89,6 +85,6 @@ configuration:
       hvCuts: "true"
     CVTSP:
       targetMat: "LD2"
-      hvCuts: "true"mime-types:
+      hvCuts: "true"
 mime-types:
   - binary/data-hipo

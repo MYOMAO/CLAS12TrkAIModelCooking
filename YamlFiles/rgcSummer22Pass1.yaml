@@ -65,7 +65,7 @@ configuration:
   global:
     variation: rgc_summer2022
     dcrbJitter: "true"
-    timestamp: 03/13/2024-06:40:00 
+    #timestamp: 03/13/2024-06:40:00 
   io-services:
     writer:
       schema_dir: /scigroup/cvmfs/hallb/clas12/sw/noarch/clara/5.0.2_13.0.0/plugins/clas12/etc/bankdefs/hipo4/singles/dchv
