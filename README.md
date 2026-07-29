@@ -35,9 +35,9 @@ dchv
 CLAS12TrkAIModelCooking/
 │
 ├── YamlFiles/
-│   ├── RG-A_*.yaml
-│   ├── RG-B_*.yaml
-│   ├── RG-C_*.yaml
+│   ├── rga*.yaml
+│   ├── rgb*.yaml
+│   ├── rgc*.yaml
 │   └── ...
 │
 ├── RunLists.png
