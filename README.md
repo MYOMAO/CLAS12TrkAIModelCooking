@@ -59,6 +59,12 @@ The run lists include all production runs used in the AI tracking validation cam
 
 ## YAML Configuration Files
 
+Orginally, the yaml files are obtained from following link:
+
+```
+https://github.com/JeffersonLab/clas12-config/tree/main/wok
+```
+
 All YAML configuration files for different run groups and data-taking periods are stored in:
 
 ```
